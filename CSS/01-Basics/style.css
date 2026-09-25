@@ -4,6 +4,10 @@ p {
 
 h1 {
     color: blue;
+    margin: 30px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
 }
 
 .intro {
@@ -12,4 +16,9 @@ h1 {
 
 #title {
     text-align: center;
+}
+
+body {
+    background-color: lightgray;
+    color: darkblue;
 }
